@@ -22,9 +22,6 @@
 <img src="https://img.shields.io/badge/Portfolio-F6F1EB?style=for-the-badge&logo=googlechrome&logoColor=1F3A5F"/>
 </a>
 
-<a href="https://leetcode.com/u/Shreyagoyal898/">
-<img src="https://img.shields.io/badge/LeetCode-1F3A5F?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
 
 <a href="https://drive.google.com/file/d/1S7Df2uQlg_8vCb3k0HbOAbrkjnwZjBIu/view">
 <img src="https://img.shields.io/badge/Resume-D89CA6?style=for-the-badge&logo=readme&logoColor=white"/>
