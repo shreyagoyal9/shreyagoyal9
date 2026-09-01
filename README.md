@@ -253,9 +253,7 @@ AI-powered legal assistant using Retrieval-Augmented Generation (RAG) to answer 
 <img src="https://img.shields.io/badge/Gmail-D8A7B1?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/Shreyagoyal898/">
-<img src="https://img.shields.io/badge/LeetCode-1F3A5F?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+
 &nbsp;
 <a href="https://shreyagoyal9.github.io/shreyagoyal-portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-F6F1EB?style=for-the-badge&logo=googlechrome&logoColor=1F3A5F"/>
