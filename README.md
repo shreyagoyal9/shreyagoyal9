@@ -145,8 +145,8 @@ AI music hook detection platform that analyzes songs and predicts the most engag
 
 `Next.js` • `TypeScript` • `Python` • `Librosa`
 
-<a href="https://github.com/shreyagoyal9/hookify-app">
-<kbd> View Repository → </kbd>
+<a href="https://hookify-app-chi.vercel.app/">
+<kbd> View Live Site → </kbd>
 </a>
 
 </td>
