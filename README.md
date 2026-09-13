@@ -129,8 +129,8 @@ AI-powered cold-chain monitoring platform that detects anomalies, forecasts futu
 
 `React` • `Node.js` • `Python` • `Supabase`
 
-<a href="https://github.com/shreyagoyal9/supplylens">
-<kbd> View Repository → </kbd>
+<a href=" supplylens-frontend.onrender.com">
+<kbd> View Live Site→ </kbd>
 </a>
 
 </td>
